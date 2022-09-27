@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/besteckkasten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-besteckkasten-bambus-ausziehbar-257-385-cm-x-51-cm-x-357-cm-wenko-6867386-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-besteckkasten-bambus-ausziehbar-257-385-cm-x-51-cm-x-357-cm-wenko-6867386-1.webp"}}],fetch:{},mutations:void 0});

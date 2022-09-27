@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/anschlussmanschetten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-klapprosette-fuer-wc-anschlusz-pergamon-obi-2291508-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-klapprosette-fuer-wc-anschlusz-pergamon-obi-2291508-1.webp"}}],fetch:{},mutations:void 0});
