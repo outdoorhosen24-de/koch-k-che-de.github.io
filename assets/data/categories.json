@@ -1,107 +1,184 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "ersatzteile küchenarmatur",
+        "name": "Ersatzteile Küchenarmatur",
+        "slug": "ersatzteile-kuchenarmatur",
+        "productCategory": "Ersatzteile Küchenarmatur",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "dichtungen",
+        "name": "Dichtungen",
+        "slug": "dichtungen",
+        "productCategory": "Dichtungen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "heberglockendichtungen",
+        "name": "Heberglockendichtungen",
+        "slug": "heberglockendichtungen",
+        "productCategory": "Heberglockendichtungen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "dichtungs-sets",
+        "name": "Dichtungs-Sets",
+        "slug": "dichtungs-sets",
+        "productCategory": "Dichtungs-Sets",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "küchenhelfer",
+        "name": "Küchenhelfer",
+        "slug": "kuchenhelfer",
+        "productCategory": "Küchenhelfer",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "wassersysteme",
+        "name": "Wassersysteme",
+        "slug": "wassersysteme",
+        "productCategory": "Wassersysteme",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "kartuschensysteme",
+        "name": "Kartuschensysteme",
+        "slug": "kartuschensysteme",
+        "productCategory": "Kartuschensysteme",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "abtropfgestelle",
+        "name": "Abtropfgestelle",
+        "slug": "abtropfgestelle",
+        "productCategory": "Abtropfgestelle",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "küchen-ordnungssysteme",
+        "name": "Küchen-Ordnungssysteme",
+        "slug": "kuchen-ordnungssysteme",
+        "productCategory": "Küchen-Ordnungssysteme",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "mischdüsen",
+        "name": "Mischdüsen",
+        "slug": "mischdusen",
+        "productCategory": "Mischdüsen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "ersatzgeschirrbrause",
+        "name": "Ersatzgeschirrbrause",
+        "slug": "ersatzgeschirrbrause",
+        "productCategory": "Ersatzgeschirrbrause",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "herdabdeckungen",
+        "name": "Herdabdeckungen",
+        "slug": "herdabdeckungen",
+        "productCategory": "Herdabdeckungen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "besteckkästen",
+        "name": "Besteckkästen",
+        "slug": "besteckkasten",
+        "productCategory": "Besteckkästen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "zubehör für küchenarmatur",
+        "name": "Zubehör für Küchenarmatur",
+        "slug": "zubehor-fur-kuchenarmatur",
+        "productCategory": "Zubehör für Küchenarmatur",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "excentergarnituren",
+        "name": "Excentergarnituren",
+        "slug": "excentergarnituren",
+        "productCategory": "Excentergarnituren",
+        "subCategories": []
+    },
+    {
+        "key": "dichtungsringe",
+        "name": "Dichtungsringe",
+        "slug": "dichtungsringe",
+        "productCategory": "Dichtungsringe",
+        "subCategories": []
+    },
+    {
+        "key": "fiberdichtungen",
+        "name": "Fiberdichtungen",
+        "slug": "fiberdichtungen",
+        "productCategory": "Fiberdichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "gewindeband",
+        "name": "Gewindeband",
+        "slug": "gewindeband",
+        "productCategory": "Gewindeband",
+        "subCategories": []
+    },
+    {
+        "key": "dichtungen für quetschverbindungen",
+        "name": "Dichtungen für Quetschverbindungen",
+        "slug": "dichtungen-fur-quetschverbindungen",
+        "productCategory": "Dichtungen für Quetschverbindungen",
+        "subCategories": []
+    },
+    {
+        "key": "anschlussmanschetten",
+        "name": "Anschlussmanschetten",
+        "slug": "anschlussmanschetten",
+        "productCategory": "Anschlussmanschetten",
+        "subCategories": []
+    },
+    {
+        "key": "keildichtungen",
+        "name": "Keildichtungen",
+        "slug": "keildichtungen",
+        "productCategory": "Keildichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "hahnscheiben",
+        "name": "Hahnscheiben",
+        "slug": "hahnscheiben",
+        "productCategory": "Hahnscheiben",
+        "subCategories": []
+    },
+    {
+        "key": "o-ringe dichtungen",
+        "name": "O-Ringe Dichtungen",
+        "slug": "o-ringe-dichtungen",
+        "productCategory": "O-Ringe Dichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "gummidichtungen",
+        "name": "Gummidichtungen",
+        "slug": "gummidichtungen",
+        "productCategory": "Gummidichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "ersatzgriffe",
+        "name": "Ersatzgriffe",
+        "slug": "ersatzgriffe",
+        "productCategory": "Ersatzgriffe",
+        "subCategories": []
+    },
+    {
+        "key": "ersatzhebel",
+        "name": "Ersatzhebel",
+        "slug": "ersatzhebel",
+        "productCategory": "Ersatzhebel",
         "subCategories": []
     }
 ]

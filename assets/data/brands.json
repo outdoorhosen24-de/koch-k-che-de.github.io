@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,25 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "dr. oetker",
+        "name": "Dr. Oetker",
+        "slug": "dr-oetker",
+        "productCategory": "Dr. Oetker",
+        "localThumb": "/assets/images/hersteller/dr-oetker.webp"
+    },
+    {
+        "key": "brita",
+        "name": "Brita",
+        "slug": "brita",
+        "productCategory": "Brita",
+        "localThumb": "/assets/images/hersteller/brita.webp"
+    },
+    {
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
         "key": "obi",
@@ -35,52 +35,73 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "pyramis",
+        "name": "Pyramis",
+        "slug": "pyramis",
+        "productCategory": "Pyramis",
+        "localThumb": "/assets/images/hersteller/pyramis.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "optifit",
+        "name": "Optifit",
+        "slug": "optifit",
+        "productCategory": "Optifit",
+        "localThumb": "/assets/images/hersteller/optifit.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "hansgrohe",
+        "name": "Hansgrohe",
+        "slug": "hansgrohe",
+        "productCategory": "Hansgrohe",
+        "localThumb": "/assets/images/hersteller/hansgrohe.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "kludi",
+        "name": "Kludi",
+        "slug": "kludi",
+        "productCategory": "Kludi",
+        "localThumb": "/assets/images/hersteller/kludi.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "schütte",
+        "name": "Schütte",
+        "slug": "schuette",
+        "productCategory": "Schütte",
+        "localThumb": "/assets/images/hersteller/schuette.webp"
+    },
+    {
+        "key": "eisl",
+        "name": "Eisl",
+        "slug": "eisl",
+        "productCategory": "Eisl",
+        "localThumb": "/assets/images/hersteller/eisl.webp"
+    },
+    {
+        "key": "rst",
+        "name": "RST",
+        "slug": "rst",
+        "productCategory": "RST",
+        "localThumb": "/assets/images/hersteller/rst.webp"
+    },
+    {
+        "key": "grohe",
+        "name": "Grohe",
+        "slug": "grohe",
+        "productCategory": "Grohe",
+        "localThumb": "/assets/images/hersteller/grohe.webp"
     }
 ]
