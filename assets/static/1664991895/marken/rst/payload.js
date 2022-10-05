@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rst", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rst-kuechenbrause-umstellbar-mit-2-strahlarten-rst-4385381-1.jpg":"\u002Fassets\u002Fimages\u002Frst-kuechenbrause-umstellbar-mit-2-strahlarten-rst-4385381-1.webp"}}],fetch:{},mutations:void 0});

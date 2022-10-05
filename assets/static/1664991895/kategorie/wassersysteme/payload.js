@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/wassersysteme", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/brita-wasserfilter-kartusche-maxtra-pack-4-brita-8777575-1.jpg":"\u002Fassets\u002Fimages\u002Fbrita-wasserfilter-kartusche-maxtra-pack-4-brita-8777575-1.webp"}}],fetch:{},mutations:void 0});

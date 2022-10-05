@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/schuette", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/geschirrbrause-chrom-ersatzteil-fuer-kuechenarmatur-supra-schuette-8531188-1.jpg":"\u002Fassets\u002Fimages\u002Fgeschirrbrause-chrom-ersatzteil-fuer-kuechenarmatur-supra-schuette-8531188-1.webp"}}],fetch:{},mutations:void 0});
