@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "koch-k\u00fcche.de",
+    "hostname": "https://www.koch-k\u00fcche.de/",
+    "email": "koch-k\u00fcche.desurrealnetworks.io",
+    "organization": "koch-k\u00fcche.de",
+    "logoText": "Koch-k\u00fcche.de",
+    "title": "K\u00fcchenausstattung",
+    "subline": "Der Online Shop f\u00fcr K\u00fcchenausstattung",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5326178",
+        "7411986",
+        "5329784",
+        "7412455",
+        "5021423",
+        "7403561"
+    ],
+    "winnerProducts": [
+        "5949755",
+        "5331848",
+        "5949763"
+    ],
+    "featuredCategories": [
+        "Abtropfgestelle",
+        "Ersatzhebel",
+        "Gewindeband",
+        "Gummidichtungen",
+        "Abtropfgestelle",
+        "Ersatzhebel"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "K\u00fcchenausstattung",
-        "featureText": "Your featured text goes here",
+        "featureText": "K\u00fcchenausstattung ist ein wichtiger Bestandteil einer jeden K\u00fcche. Die Ausstattung muss praktisch sein und den Anspr\u00fcchen der K\u00f6che entsprechen. Die K\u00fcchenausstattung umfasst die Einrichtung der K\u00fcche, die Ger\u00e4te und die Utensilien. Die K\u00fcchenausstattung muss praktisch sein und den Anspr\u00fcchen der K\u00f6che entsprechen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "K\u00fcchenausstattung - alles f\u00fcr Ihre K\u00fcche!",
+            "metaDescription": "K\u00fcchenausstattung f\u00fcr Ihre K\u00fcche zu Hause. Wir haben alles, was Sie f\u00fcr Ihre K\u00fcche ben\u00f6tigen, von T\u00f6pfen und Pfannen bis zu Geschirr und Besteck.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "K\u00fcchenausstattung: Die wichtigsten Utensilien f\u00fcr Ihre K\u00fcche",
+                    "text": "Die K\u00fcche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die K\u00fcche sollte ein Ort sein, an dem man sich wohlf\u00fchlt. Die K\u00fcche muss auch praktisch sein.\n\nDie K\u00fcchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der K\u00fcche h\u00e4ngt von den Bed\u00fcrfnissen der Familie ab.\n\nEine gute K\u00fcche sollte \u00fcber einen Herd, einen K\u00fchlschrank, eine Sp\u00fcle und einen Geschirrsp\u00fcler verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben.\n\nEine moderne K\u00fcche sollte \u00fcber einen Backofen, eine Mikrowelle und eine Kaffeemaschine verf\u00fcgen. Diese Ger\u00e4te erleichtern das Kochen und Backen.\n\nDie K\u00fcchenausstattung sollte auch \u00fcber einen Geschirrsp\u00fcler, einen K\u00fchlschrank, eine Sp\u00fcle und einen Herd verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenausstattung Shop",
+            "metaDescription": "K\u00fcchenausstattung Shop - Hier findest du alles f\u00fcr deine K\u00fcche. Von T\u00f6pfen und Pfannen bis zu Geschirr und Besteck.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "K\u00fcchenausstattung - Die besten Hersteller",
+            "metaDescription": "K\u00fcchenausstattung - Finden Sie hier die besten Hersteller und Anbieter von K\u00fcchenausstattung. Vergleichen Sie die Produkte und Preise und finden Sie die beste L\u00f6sung f\u00fcr Ihre K\u00fcche.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenausstattung: $PRODUKT",
+        "defaultMetaDescription": "K\u00fcchenausstattung von $HERSTELLER f\u00fcr die $KATEGORIE. Finden Sie Ihre perfekte K\u00fcchenausstattung f\u00fcr Ihr Zuhause. Jetzt online kaufen bei $PRODUKT!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "K\u00fcchenausstattung: $KATEGORIE",
+        "defaultMetaDescription": "K\u00fcchenausstattung f\u00fcr diejenigen, die es ernst meinen. Finde die beste $KATEGORIE f\u00fcr deine K\u00fcche.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "K\u00fcchenausstattung von $HERSTELLER - K\u00fcchenutensilien und -zubeh\u00f6r f\u00fcr die perfekte Ausstattung deiner K\u00fcche. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "K\u00fcchenausstattung",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "K\u00fcchenausstattung Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "K\u00fcchenausstattung Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
