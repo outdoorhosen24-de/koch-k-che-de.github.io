@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "koch-k\u00fcche.de",
-    "hostname": "https://www.koch-k\u00fcche.de/",
-    "email": "koch-k\u00fcche.desurrealnetworks.io",
-    "organization": "koch-k\u00fcche.de",
-    "logoText": "Koch-k\u00fcche.de",
-    "title": "K\u00fcchenausstattung",
-    "subline": "Der Online Shop f\u00fcr K\u00fcchenausstattung",
+    "configIsReady": false,
+    "domain": "koch-küche.de",
+    "hostname": "https://www.koch-küche.de/",
+    "email": "koch-küche.desurrealnetworks.io",
+    "organization": "koch-küche.de",
+    "logoText": "Koch-küche.de",
+    "title": "Küchenausstattung",
+    "subline": "Der Online Shop für Küchenausstattung",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "K\u00fcchenausstattung",
-        "featureText": "K\u00fcchenausstattung ist ein wichtiger Bestandteil einer jeden K\u00fcche. Die Ausstattung muss praktisch sein und den Anspr\u00fcchen der K\u00f6che entsprechen. Die K\u00fcchenausstattung umfasst die Einrichtung der K\u00fcche, die Ger\u00e4te und die Utensilien. Die K\u00fcchenausstattung muss praktisch sein und den Anspr\u00fcchen der K\u00f6che entsprechen.",
+        "mainKeyword": "Küchenausstattung",
+        "featureText": "Küchenausstattung ist ein wichtiger Bestandteil einer jeden Küche. Die Ausstattung muss praktisch sein und den Ansprüchen der Köche entsprechen. Die Küchenausstattung umfasst die Einrichtung der Küche, die Geräte und die Utensilien. Die Küchenausstattung muss praktisch sein und den Ansprüchen der Köche entsprechen.",
         "index": {
-            "title": "K\u00fcchenausstattung - alles f\u00fcr Ihre K\u00fcche!",
-            "metaDescription": "K\u00fcchenausstattung f\u00fcr Ihre K\u00fcche zu Hause. Wir haben alles, was Sie f\u00fcr Ihre K\u00fcche ben\u00f6tigen, von T\u00f6pfen und Pfannen bis zu Geschirr und Besteck.",
+            "title": "Küchenausstattung - alles für Ihre Küche!",
+            "metaDescription": "Küchenausstattung für Ihre Küche zu Hause. Wir haben alles, was Sie für Ihre Küche benötigen, von Töpfen und Pfannen bis zu Geschirr und Besteck.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "K\u00fcchenausstattung: Die wichtigsten Utensilien f\u00fcr Ihre K\u00fcche",
-                    "text": "Die K\u00fcche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die K\u00fcche sollte ein Ort sein, an dem man sich wohlf\u00fchlt. Die K\u00fcche muss auch praktisch sein.\n\nDie K\u00fcchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der K\u00fcche h\u00e4ngt von den Bed\u00fcrfnissen der Familie ab.\n\nEine gute K\u00fcche sollte \u00fcber einen Herd, einen K\u00fchlschrank, eine Sp\u00fcle und einen Geschirrsp\u00fcler verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben.\n\nEine moderne K\u00fcche sollte \u00fcber einen Backofen, eine Mikrowelle und eine Kaffeemaschine verf\u00fcgen. Diese Ger\u00e4te erleichtern das Kochen und Backen.\n\nDie K\u00fcchenausstattung sollte auch \u00fcber einen Geschirrsp\u00fcler, einen K\u00fchlschrank, eine Sp\u00fcle und einen Herd verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben."
+                    "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
+                    "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
                 }
             ]
         },
         "shop": {
-            "title": "K\u00fcchenausstattung Shop",
-            "metaDescription": "K\u00fcchenausstattung Shop - Hier findest du alles f\u00fcr deine K\u00fcche. Von T\u00f6pfen und Pfannen bis zu Geschirr und Besteck.",
+            "title": "Küchenausstattung Shop",
+            "metaDescription": "Küchenausstattung Shop - Hier findest du alles für deine Küche. Von Töpfen und Pfannen bis zu Geschirr und Besteck.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "K\u00fcchenausstattung - Die besten Hersteller",
-            "metaDescription": "K\u00fcchenausstattung - Finden Sie hier die besten Hersteller und Anbieter von K\u00fcchenausstattung. Vergleichen Sie die Produkte und Preise und finden Sie die beste L\u00f6sung f\u00fcr Ihre K\u00fcche.",
+            "title": "Küchenausstattung - Die besten Hersteller",
+            "metaDescription": "Küchenausstattung - Finden Sie hier die besten Hersteller und Anbieter von Küchenausstattung. Vergleichen Sie die Produkte und Preise und finden Sie die beste Lösung für Ihre Küche.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "K\u00fcchenausstattung: $PRODUKT",
-        "defaultMetaDescription": "K\u00fcchenausstattung von $HERSTELLER f\u00fcr die $KATEGORIE. Finden Sie Ihre perfekte K\u00fcchenausstattung f\u00fcr Ihr Zuhause. Jetzt online kaufen bei $PRODUKT!",
+        "defaultTitle": "Küchenausstattung: $PRODUKT",
+        "defaultMetaDescription": "Küchenausstattung von $HERSTELLER für die $KATEGORIE. Finden Sie Ihre perfekte Küchenausstattung für Ihr Zuhause. Jetzt online kaufen bei $PRODUKT!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "K\u00fcchenausstattung: $KATEGORIE",
-        "defaultMetaDescription": "K\u00fcchenausstattung f\u00fcr diejenigen, die es ernst meinen. Finde die beste $KATEGORIE f\u00fcr deine K\u00fcche.",
+        "defaultTitle": "Küchenausstattung: $KATEGORIE",
+        "defaultMetaDescription": "Küchenausstattung für diejenigen, die es ernst meinen. Finde die beste $KATEGORIE für deine Küche.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "K\u00fcchenausstattung von $HERSTELLER - K\u00fcchenutensilien und -zubeh\u00f6r f\u00fcr die perfekte Ausstattung deiner K\u00fcche. Jetzt online bestellen!",
+        "defaultMetaDescription": "Küchenausstattung von $HERSTELLER - Küchenutensilien und -zubehör für die perfekte Ausstattung deiner Küche. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "K\u00fcchenausstattung",
+            "linkTitle": "Küchenausstattung",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "K\u00fcchenausstattung Shop",
+            "linkTitle": "Küchenausstattung Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "K\u00fcchenausstattung Marken",
+            "linkTitle": "Küchenausstattung Marken",
             "publish": true
         },
         {
