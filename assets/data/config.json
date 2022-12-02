@@ -51,12 +51,15 @@
             "title": "Küchenausstattung - alles für Ihre Küche!",
             "metaDescription": "Küchenausstattung für Ihre Küche zu Hause. Wir haben alles, was Sie für Ihre Küche benötigen, von Töpfen und Pfannen bis zu Geschirr und Besteck.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
-                    "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
+                        "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Küchenausstattung Shop",
