@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "koch-küche.de",
     "hostname": "https://www.koch-küche.de/",
     "email": "koch-küche.de@surrealnetworks.io",
     "organization": "koch-küche.de",
     "logoText": "Koch-küche.de",
-    "title": "Küchenausstattung",
-    "subline": "Der Online Shop für Küchenausstattung",
+    "title": "Küchenzubehör & Ersatzteile",
+    "subline": "Der Online Shop für Ihre Küche",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Küchenausstattung",
-        "featureText": "Küchenausstattung ist ein wichtiger Bestandteil einer jeden Küche. Die Ausstattung muss praktisch sein und den Ansprüchen der Köche entsprechen. Die Küchenausstattung umfasst die Einrichtung der Küche, die Geräte und die Utensilien. Die Küchenausstattung muss praktisch sein und den Ansprüchen der Köche entsprechen.",
+        "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns finden Sie Küchenzubehör wie Herdabdeckungen, Abtropfgestelle, Ordnungssysteme und eine große Auswahl an Ersatzteilen: Griffe, Hebel, Kartuschensysteme und eine Vielzahl verschiedener Dichtungen. Um Ihnen die Suche einfach und bequem zu gestalten, ist unser Online-Shop in übersichtlichen Kategorien geordnet. Wir bieten hochwertige Qualität, renommierte Marken und eine schnelle Lieferung.",
         "index": {
-            "title": "Küchenausstattung - alles für Ihre Küche!",
-            "metaDescription": "Küchenausstattung für Ihre Küche zu Hause. Wir haben alles, was Sie für Ihre Küche benötigen, von Töpfen und Pfannen bis zu Geschirr und Besteck.",
+            "title": "Küchenzubehör & Ersatzteile | koch-küche.de",
+            "metaDescription": "Herdabdeckungen, Besteckkästen, Ordnungssysteme, Ersatzdichtungen und mehr - bei uns finden Sie alles, was Sie für Ihre Küche benötigen. Top Preise!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Küchenausstattung Shop",
-            "metaDescription": "Küchenausstattung Shop - Hier findest du alles für deine Küche. Von Töpfen und Pfannen bis zu Geschirr und Besteck.",
+            "title": "Koch-Küche.de | Ihr Küchenshop",
+            "metaDescription": "Umfangreiches Produktangebot | Hochwertige Qualität | Bekannte Markenanbieter. Entdecken Sie Küchenausstattung und Ersatzteile von A-Z in unserem Online Shop!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Küchenausstattung - Die besten Hersteller",
-            "metaDescription": "Küchenausstattung - Finden Sie hier die besten Hersteller und Anbieter von Küchenausstattung. Vergleichen Sie die Produkte und Preise und finden Sie die beste Lösung für Ihre Küche.",
+            "title": "Küchenausstattung & Zubehör | Die besten Hersteller",
+            "metaDescription": "Entdecken Sie bei uns die besten Hersteller und Markenanbieter: Grohe ~ OBI ~ Brita ~ Schütte ~ Wenko ~ Kludi uvm. Tolle Qualität zu fairen Preisen!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Küchenausstattung: $PRODUKT",
-        "defaultMetaDescription": "Küchenausstattung von $HERSTELLER für die $KATEGORIE. Finden Sie Ihre perfekte Küchenausstattung für Ihr Zuhause. Jetzt online kaufen bei $PRODUKT!",
+        "defaultTitle": "$PRODUKT: Passend für Ihre Küche ",
+        "defaultMetaDescription": "Entdecken Sie hochwertige Produkte wie $PRODUKTE von Marken wie $HERSTELLER. Hier klicken und noch weitere Produkte unter $KATEGORIE finden!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Küchenausstattung: $KATEGORIE",
-        "defaultMetaDescription": "Küchenausstattung für diejenigen, die es ernst meinen. Finde die beste $KATEGORIE für deine Küche.",
+        "defaultTitle": "$KATEGORIE | koch-küche.de",
+        "defaultMetaDescription": "Statten Sie Ihre Küche perfekt aus! Bei uns finden Sie die besten Produkte für unterschiedliche Kategorien wie  $KATEGORIE. Schnell. Einfach. Günstig.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Küchenausstattung von $HERSTELLER - Küchenutensilien und -zubehör für die perfekte Ausstattung deiner Küche. Jetzt online bestellen!",
+        "defaultTitle": "$HERSTELLER | auf koch-küche.de",
+        "defaultMetaDescription": "Küchenzubehör und Ersatzteile von den besten Herstellern wie $HERSTELLER. Küchenprodukte von A-Z. Tolle Qualität. Große Produktauswahl. Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
