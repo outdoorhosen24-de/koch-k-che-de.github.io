@@ -2,7 +2,7 @@
     {
         "key": "ersatzteile küchenarmatur",
         "name": "Ersatzteile Küchenarmatur",
-        "slug": "ersatzteile-kuchenarmatur",
+        "slug": "ersatzteile-kuechenarmatur",
         "productCategory": "Ersatzteile Küchenarmatur",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "küchenhelfer",
         "name": "Küchenhelfer",
-        "slug": "kuchenhelfer",
+        "slug": "kuechenhelfer",
         "productCategory": "Küchenhelfer",
         "subCategories": []
     },
@@ -58,14 +58,14 @@
     {
         "key": "küchen-ordnungssysteme",
         "name": "Küchen-Ordnungssysteme",
-        "slug": "kuchen-ordnungssysteme",
+        "slug": "kuechen-ordnungssysteme",
         "productCategory": "Küchen-Ordnungssysteme",
         "subCategories": []
     },
     {
         "key": "mischdüsen",
         "name": "Mischdüsen",
-        "slug": "mischdusen",
+        "slug": "mischduesen",
         "productCategory": "Mischdüsen",
         "subCategories": []
     },
@@ -86,14 +86,14 @@
     {
         "key": "besteckkästen",
         "name": "Besteckkästen",
-        "slug": "besteckkasten",
+        "slug": "besteckkaesten",
         "productCategory": "Besteckkästen",
         "subCategories": []
     },
     {
         "key": "zubehör für küchenarmatur",
         "name": "Zubehör für Küchenarmatur",
-        "slug": "zubehor-fur-kuchenarmatur",
+        "slug": "zubehoer-fuer-kuechenarmatur",
         "productCategory": "Zubehör für Küchenarmatur",
         "subCategories": []
     },
@@ -128,7 +128,7 @@
     {
         "key": "dichtungen für quetschverbindungen",
         "name": "Dichtungen für Quetschverbindungen",
-        "slug": "dichtungen-fur-quetschverbindungen",
+        "slug": "dichtungen-fuer-quetschverbindungen",
         "productCategory": "Dichtungen für Quetschverbindungen",
         "subCategories": []
     },
