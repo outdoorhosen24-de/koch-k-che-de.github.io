@@ -1,164 +1,167 @@
 {
-    "configIsReady": true,
-    "domain": "koch-küche.de",
-    "hostname": "https://www.koch-küche.de/",
-    "email": "koch-küche.de@surrealnetworks.io",
-    "organization": "koch-küche.de",
-    "logoText": "Koch-küche.de",
-    "title": "Küchenzubehör & Ersatzteile",
-    "subline": "Der Online Shop für Ihre Küche",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "5326178",
-        "7411986",
-        "5329784",
-        "7412455",
-        "5021423",
-        "7403561"
-    ],
-    "winnerProducts": [
-        "5949755",
-        "5331848",
-        "5949763"
-    ],
-    "featuredCategories": [
-        "Abtropfgestelle",
-        "Ersatzhebel",
-        "Gewindeband",
-        "Gummidichtungen",
-        "Abtropfgestelle",
-        "Ersatzhebel"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Küchenausstattung",
-        "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns finden Sie Küchenzubehör wie Herdabdeckungen, Abtropfgestelle, Ordnungssysteme und eine große Auswahl an Ersatzteilen: Griffe, Hebel, Kartuschensysteme und eine Vielzahl verschiedener Dichtungen. Um Ihnen die Suche einfach und bequem zu gestalten, ist unser Online-Shop in übersichtlichen Kategorien geordnet. Wir bieten hochwertige Qualität, renommierte Marken und eine schnelle Lieferung.",
-        "index": {
-            "title": "Küchenzubehör & Ersatzteile | koch-küche.de",
-            "metaDescription": "Herdabdeckungen, Besteckkästen, Ordnungssysteme, Ersatzdichtungen und mehr - bei uns finden Sie alles, was Sie für Ihre Küche benötigen. Top Preise!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
-                        "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Koch-Küche.de | Ihr Küchenshop",
-            "metaDescription": "Umfangreiches Produktangebot | Hochwertige Qualität | Bekannte Markenanbieter. Entdecken Sie Küchenausstattung und Ersatzteile von A-Z in unserem Online Shop!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Küchenausstattung & Zubehör | Die besten Hersteller",
-            "metaDescription": "Entdecken Sie bei uns die besten Hersteller und Markenanbieter: Grohe ~ OBI ~ Brita ~ Schütte ~ Wenko ~ Kludi uvm. Tolle Qualität zu fairen Preisen!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT: Passend für Ihre Küche ",
-        "defaultMetaDescription": "Entdecken Sie hochwertige Produkte wie $PRODUKTE von Marken wie $HERSTELLER. Hier klicken und noch weitere Produkte unter $KATEGORIE finden!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "koch-k\u00fcche.de",
+  "hostname": "https://www.koch-k\u00fcche.de/",
+  "email": "koch-k\u00fcche.de@surrealnetworks.io",
+  "organization": "koch-k\u00fcche.de",
+  "logoText": "Koch-k\u00fcche.de",
+  "title": "K\u00fcchenzubeh\u00f6r & Ersatzteile",
+  "subline": "Der Online Shop f\u00fcr Ihre K\u00fcche",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "5326178",
+    "7411986",
+    "5329784",
+    "7412455",
+    "5021423",
+    "7403561"
+  ],
+  "winnerProducts": [
+    "5949755",
+    "5331848",
+    "5949763"
+  ],
+  "featuredCategories": [
+    "Abtropfgestelle",
+    "Ersatzhebel",
+    "Gewindeband",
+    "Gummidichtungen",
+    "Abtropfgestelle",
+    "Ersatzhebel"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "K\u00fcchenausstattung",
+    "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns finden Sie K\u00fcchenzubeh\u00f6r wie Herdabdeckungen, Abtropfgestelle, Ordnungssysteme und eine gro\u00dfe Auswahl an Ersatzteilen: Griffe, Hebel, Kartuschensysteme und eine Vielzahl verschiedener Dichtungen. Um Ihnen die Suche einfach und bequem zu gestalten, ist unser Online-Shop in \u00fcbersichtlichen Kategorien geordnet. Wir bieten hochwertige Qualit\u00e4t, renommierte Marken und eine schnelle Lieferung.",
+    "index": {
+      "title": "K\u00fcchenzubeh\u00f6r & Ersatzteile | koch-k\u00fcche.de",
+      "metaDescription": "Herdabdeckungen, Besteckk\u00e4sten, Ordnungssysteme, Ersatzdichtungen und mehr - bei uns finden Sie alles, was Sie f\u00fcr Ihre K\u00fcche ben\u00f6tigen. Top Preise!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "K\u00fcchenausstattung: Die wichtigsten Utensilien f\u00fcr Ihre K\u00fcche",
+            "text": "Die K\u00fcche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die K\u00fcche sollte ein Ort sein, an dem man sich wohlf\u00fchlt. Die K\u00fcche muss auch praktisch sein.\n\nDie K\u00fcchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der K\u00fcche h\u00e4ngt von den Bed\u00fcrfnissen der Familie ab.\n\nEine gute K\u00fcche sollte \u00fcber einen Herd, einen K\u00fchlschrank, eine Sp\u00fcle und einen Geschirrsp\u00fcler verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben.\n\nEine moderne K\u00fcche sollte \u00fcber einen Backofen, eine Mikrowelle und eine Kaffeemaschine verf\u00fcgen. Diese Ger\u00e4te erleichtern das Kochen und Backen.\n\nDie K\u00fcchenausstattung sollte auch \u00fcber einen Geschirrsp\u00fcler, einen K\u00fchlschrank, eine Sp\u00fcle und einen Herd verf\u00fcgen. Diese Ger\u00e4te sollten gut positioniert sein, damit man sie leicht erreichen kann. Die K\u00fcche sollte auch gen\u00fcgend Stauraum f\u00fcr Lebensmittel, Geschirr und K\u00fcchenutensilien haben."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | koch-küche.de",
-        "defaultMetaDescription": "Statten Sie Ihre Küche perfekt aus! Bei uns finden Sie die besten Produkte für unterschiedliche Kategorien wie  $KATEGORIE. Schnell. Einfach. Günstig.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Koch-K\u00fcche.de | Ihr K\u00fcchenshop",
+      "metaDescription": "Umfangreiches Produktangebot | Hochwertige Qualit\u00e4t | Bekannte Markenanbieter. Entdecken Sie K\u00fcchenausstattung und Ersatzteile von A-Z in unserem Online Shop!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | auf koch-küche.de",
-        "defaultMetaDescription": "Küchenzubehör und Ersatzteile von den besten Herstellern wie $HERSTELLER. Küchenprodukte von A-Z. Tolle Qualität. Große Produktauswahl. Schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Küchenausstattung",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Küchenausstattung Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Küchenausstattung Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "K\u00fcchenausstattung & Zubeh\u00f6r | Die besten Hersteller",
+      "metaDescription": "Entdecken Sie bei uns die besten Hersteller und Markenanbieter: Grohe ~ OBI ~ Brita ~ Sch\u00fctte ~ Wenko ~ Kludi uvm. Tolle Qualit\u00e4t zu fairen Preisen!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT: Passend f\u00fcr Ihre K\u00fcche ",
+    "defaultMetaDescription": "Entdecken Sie hochwertige Produkte wie $PRODUKTE von Marken wie $HERSTELLER. Hier klicken und noch weitere Produkte unter $KATEGORIE finden!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | koch-k\u00fcche.de",
+    "defaultMetaDescription": "Statten Sie Ihre K\u00fcche perfekt aus! Bei uns finden Sie die besten Produkte f\u00fcr unterschiedliche Kategorien wie  $KATEGORIE. Schnell. Einfach. G\u00fcnstig.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | auf koch-k\u00fcche.de",
+    "defaultMetaDescription": "K\u00fcchenzubeh\u00f6r und Ersatzteile von den besten Herstellern wie $HERSTELLER. K\u00fcchenprodukte von A-Z. Tolle Qualit\u00e4t. Gro\u00dfe Produktauswahl. Schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "K\u00fcchenausstattung",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "K\u00fcchenausstattung Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "K\u00fcchenausstattung Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
