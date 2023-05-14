@@ -1,200 +1,207 @@
 {
-  "configIsReady": true,
-  "domain": "koch-küche.de",
-  "hostname": "https://www.koch-küche.de/",
-  "email": "koch-küche.de@surrealnetworks.io",
-  "organization": "koch-küche.de",
-  "logoText": "Koch-küche.de",
-  "title": "Küchenzubehör & Ersatzteile",
-  "subline": "Der Online Shop für Ihre Küche",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5326178",
-    "7411986",
-    "5329784",
-    "7412455",
-    "5021423",
-    "7403561"
-  ],
-  "winnerProducts": [
-    "5949755",
-    "5331848",
-    "5949763"
-  ],
-  "featuredCategories": [
-    "Abtropfgestelle",
-    "Ersatzhebel",
-    "Gewindeband",
-    "Gummidichtungen",
-    "Abtropfgestelle",
-    "Ersatzhebel"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Küchenausstattung",
-    "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns finden Sie Küchenzubehör wie Herdabdeckungen, Abtropfgestelle, Ordnungssysteme und eine große Auswahl an Ersatzteilen: Griffe, Hebel, Kartuschensysteme und eine Vielzahl verschiedener Dichtungen. Um Ihnen die Suche einfach und bequem zu gestalten, ist unser Online-Shop in übersichtlichen Kategorien geordnet. Wir bieten hochwertige Qualität, renommierte Marken und eine schnelle Lieferung.",
-    "index": {
-      "title": "Küchenzubehör & Ersatzteile | koch-küche.de",
-      "metaDescription": "Herdabdeckungen, Besteckkästen, Ordnungssysteme, Ersatzdichtungen und mehr - bei uns finden Sie alles, was Sie für Ihre Küche benötigen. Top Preise!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
-            "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "koch-küche.de",
+    "hostname": "https://www.koch-küche.de/",
+    "email": "koch-küche.de@surrealnetworks.io",
+    "organization": "koch-küche.de",
+    "logoText": "Koch-küche.de",
+    "title": "Küchenzubehör & Ersatzteile",
+    "subline": "Der Online Shop für Ihre Küche",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5326178",
+        "7411986",
+        "5329784",
+        "7412455",
+        "5021423",
+        "7403561"
+    ],
+    "winnerProducts": [
+        "5949755",
+        "5331848",
+        "5949763"
+    ],
+    "featuredCategories": [
+        "Abtropfgestelle",
+        "Ersatzhebel",
+        "Gewindeband",
+        "Gummidichtungen",
+        "Abtropfgestelle",
+        "Ersatzhebel"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Küchenausstattung",
+        "featureText": "Herzlich willkommen in unserem Online Shop! Bei uns finden Sie Küchenzubehör wie Herdabdeckungen, Abtropfgestelle, Ordnungssysteme und eine große Auswahl an Ersatzteilen: Griffe, Hebel, Kartuschensysteme und eine Vielzahl verschiedener Dichtungen. Um Ihnen die Suche einfach und bequem zu gestalten, ist unser Online-Shop in übersichtlichen Kategorien geordnet. Wir bieten hochwertige Qualität, renommierte Marken und eine schnelle Lieferung.",
+        "index": {
+            "title": "Küchenzubehör & Ersatzteile | koch-küche.de",
+            "metaDescription": "Herdabdeckungen, Besteckkästen, Ordnungssysteme, Ersatzdichtungen und mehr - bei uns finden Sie alles, was Sie für Ihre Küche benötigen. Top Preise!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Küchenausstattung: Die wichtigsten Utensilien für Ihre Küche",
+                        "text": "Die Küche ist ein wichtiger Teil des Hauses. Es ist der Ort, an dem die Familie zusammenkommt, um zu essen und zu entspannen. Die Küche sollte ein Ort sein, an dem man sich wohlfühlt. Die Küche muss auch praktisch sein.\n\nDie Küchenausstattung ist sehr wichtig. Sie muss funktionell sein und das Kochen erleichtern. Die Ausstattung der Küche hängt von den Bedürfnissen der Familie ab.\n\nEine gute Küche sollte über einen Herd, einen Kühlschrank, eine Spüle und einen Geschirrspüler verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben.\n\nEine moderne Küche sollte über einen Backofen, eine Mikrowelle und eine Kaffeemaschine verfügen. Diese Geräte erleichtern das Kochen und Backen.\n\nDie Küchenausstattung sollte auch über einen Geschirrspüler, einen Kühlschrank, eine Spüle und einen Herd verfügen. Diese Geräte sollten gut positioniert sein, damit man sie leicht erreichen kann. Die Küche sollte auch genügend Stauraum für Lebensmittel, Geschirr und Küchenutensilien haben."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Koch-Küche.de | Ihr Küchenshop",
+            "metaDescription": "Umfangreiches Produktangebot | Hochwertige Qualität | Bekannte Markenanbieter. Entdecken Sie Küchenausstattung und Ersatzteile von A-Z in unserem Online Shop!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Küchenausstattung & Zubehör | Die besten Hersteller",
+            "metaDescription": "Entdecken Sie bei uns die besten Hersteller und Markenanbieter: Grohe ~ OBI ~ Brita ~ Schütte ~ Wenko ~ Kludi uvm. Tolle Qualität zu fairen Preisen!",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Koch-Küche.de | Ihr Küchenshop",
-      "metaDescription": "Umfangreiches Produktangebot | Hochwertige Qualität | Bekannte Markenanbieter. Entdecken Sie Küchenausstattung und Ersatzteile von A-Z in unserem Online Shop!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Küchenausstattung & Zubehör | Die besten Hersteller",
-      "metaDescription": "Entdecken Sie bei uns die besten Hersteller und Markenanbieter: Grohe ~ OBI ~ Brita ~ Schütte ~ Wenko ~ Kludi uvm. Tolle Qualität zu fairen Preisen!",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT: Passend für Ihre Küche ",
-    "defaultMetaDescription": "Entdecken Sie hochwertige Produkte wie $PRODUKTE von Marken wie $HERSTELLER. Hier klicken und noch weitere Produkte unter $KATEGORIE finden!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5949755",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT: Passend für Ihre Küche ",
+        "defaultMetaDescription": "Entdecken Sie hochwertige Produkte wie $PRODUKTE von Marken wie $HERSTELLER. Hier klicken und noch weitere Produkte unter $KATEGORIE finden!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Ersatz-Geschirrbrauseschlauch Cassai Edelstahl-Optik von Sonstige",
-              "text": "<p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai in Edelstahl-Optik ist ideal für alle, die auf der Suche nach einem qualitativ hochwertigen Ersatzteil für ihre Küchenarmatur sind. Dieser praktische Schlauch dient als perfekter Ersatz für den alten oder defekten Schlauch Ihrer Armatur aus der Serie Cassai. Er ist zudem mit standardisierten Anschlüssen von 18,6 mm (G 1/2) und M15 ausgestattet.</p><p class=\"justify\">Mit einer Länge von 1,25 m bietet der Geschirrbrauseschlauch ausreichend Spielraum für einen komfortablen Einsatz in der Küche. Der qualitative Schlauch ist aus schwarzem Nylon sowie Messing gefertigt und verfügt über einen Konus in ansprechender Edelstahl-Optik. Zudem sind im Lieferumfang zwei Dichtungen enthalten, um eine schnelle und einfache Montage zu gewährleisten.</p><p class=\"justify\">Die Ersatzgeschirrbrause kann sowohl als kostengünstige, aber dennoch qualitativ hochwertige Alternative zu teureren Markenprodukten, als auch als sinnvolles Ersatzteil in den entsprechenden Serien von Sonstige verzichtet werden. Der Cassai Ersatz-Geschirrbrauseschlauch in Edelstahl-Optik ist daher nicht nur ein praktisches, sondern auch ein äußerst langlebiges und designstarkes Produkt für Ihre Küche.</p><p class=\"justify\">Machen Sie keine Kompromisse bei der Qualität Ihrer Küchenarmatur und setzen Sie auf den Ersatz-Geschirrbrauseschlauch Cassai in Edelstahl-Optik. Die positive Resonanz der Kunden, die hohe Anzahl an Bewertungen und die herausragende Sternebewertung bestätigen die Zufriedenheit der Benutzer mit diesem Produkt. Verleihen Sie Ihrer Küche eine moderne und komfortable Ausstattung mit diesem praktischen Ersatzteil für Ihre Armatur.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5331848",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sonstige Acrylgriff 13 mm - Erstklassige Ersatzgriffe für Küche und Bad",
-              "text": "<p class=\"justify\">Der Sonstige Acrylgriff 13 mm ist ein hochwertiger Ersatzgriff für Armaturen, der perfekt für den Einsatz in Küche und Bad geeignet ist. Dank seiner kompakten Größe von 13 mm passt dieser Ersatzgriff mit verschiedenen Küchen- und Badezimmerarmaturen. Mit seiner durchdachten Bauweise und dem robusten Material Acryl ist dieser Ersatzgriff sowohl wasserbeständig als auch pflegeleicht.</p><p class=\"justify\">Die verspiegelte Ausführung verleiht dem Acrylgriff ein edles Design, das sich harmonisch in jede Armaturintegriert. Der praktische, runde Knauf bietet einen hervorragenden Griff und eine komfortable Handhabung. Die rote Markierung auf dem Griff eignet sich ideal für die Warmwasserregelung, sodass Sie stets die Kontrolle über die Temperatur haben.</p><p class=\"justify\">Mit 4 Sternen aus 278 Bewertungen steht der Sonstige Acrylgriff 13 mm für Qualität und Zuverlässigkeit. Sein schlichtes, aber elegantes Design passt sich problemlos an jede Armatur an und stellt eine hervorragende Ergänzung für Küche und Bad dar. Erhältlich zum Preis von 4,99 € stellt dieser Ersatzgriff ein ausgezeichnetes Preis-Leistungs-Verhältnis dar.</p><p class=\"justify\">Die Kategorie Ersatzgriffe ist ein wichtiger Bestandteil der Küchenausstattung und bietet eine große Auswahl an Lösungen für verschiedene Anforderungen und Geschmäcker. Mit dem Sonstige Acrylgriff 13 mm entscheiden Sie sich für einen hochwertigen und praktischen Ersatzgriff, der Ihre Erwartungen erfüllt und Ihre Armaturen funktional und optisch verbessert.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5949763",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ersatz-Geschirrbrauseschlauch Cassai Satiniert von Sonstige",
-              "text": "<p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai Satiniert von Sonstige ist eine hervorragende Lösung zur Erneuerung von Küchenarmaturen und bietet eine kosteneffiziente Möglichkeit, alten oder defekten Schläuchen neues Leben einzuhauchen. Das Produkt fällt in die Kategorie Ersatzgeschirrbrause und gehört zu den Ersatzteilen für Küchenarmaturen. Mit seiner eleganten Optik und dem zuverlässigen Material lässt es sich leicht in jede Küche integrieren, während es gleichzeitig ein hohes Maß an Funktionalität bietet.</p><p class=\"justify\">Die spezielle Ausführung des Schlauchs ist sowohl aus schwarzem Nylon als auch aus Messing gefertigt, was ihm eine besondere Beständigkeit und Haltbarkeit verleiht. Darüber hinaus verfügt der Schlauch über standardisierte Anschlüsse von 18,6 mm (G 1/2) und M15, was eine einfache Anpassung an die vorhandene Armatur ermöglicht. Die Länge von 1,25 m bietet genügend Spielraum für alle Reinigungs- und Küchenanforderungen.</p><p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai Satiniert ist nicht nur praktisch, sondern auch ästhetisch ansprechend. Die satinierte Oberfläche des Konus verleiht dem Schlauch eine hochwertige Optik und macht ihn zu einer stilvollen Ergänzung jeder Küche. Im Lieferumfang sind zudem zwei Dichtungen enthalten, die für eine sichere und dichte Verbindung sorgen und somit Wasserlecks verhindern.</p><p class=\"justify\">Besitzer von Küchenarmaturen, die einen hochwertigen Ersatz-Geschirrbrauseschlauch benötigen, werden mit dem Cassai Satiniert von Sonstige eine ausgezeichnete Wahl treffen. Mit seinen langlebigen Materialien, der benutzerfreundlichen Konstruktion und dem ansprechenden Design wird dieser Schlauch sicherlich den Bedürfnissen jedes Küchenbesitzers gerecht werden und den Arbeitsbereich rund um die Spüle noch komfortabler gestalten.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | koch-küche.de",
-    "defaultMetaDescription": "Statten Sie Ihre Küche perfekt aus! Bei uns finden Sie die besten Produkte für unterschiedliche Kategorien wie  $KATEGORIE. Schnell. Einfach. Günstig.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5949755",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ersatz-Geschirrbrauseschlauch Cassai Edelstahl-Optik von Sonstige",
+                            "text": "<p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai in Edelstahl-Optik ist ideal für alle, die auf der Suche nach einem qualitativ hochwertigen Ersatzteil für ihre Küchenarmatur sind. Dieser praktische Schlauch dient als perfekter Ersatz für den alten oder defekten Schlauch Ihrer Armatur aus der Serie Cassai. Er ist zudem mit standardisierten Anschlüssen von 18,6 mm (G 1/2) und M15 ausgestattet.</p><p class=\"justify\">Mit einer Länge von 1,25 m bietet der Geschirrbrauseschlauch ausreichend Spielraum für einen komfortablen Einsatz in der Küche. Der qualitative Schlauch ist aus schwarzem Nylon sowie Messing gefertigt und verfügt über einen Konus in ansprechender Edelstahl-Optik. Zudem sind im Lieferumfang zwei Dichtungen enthalten, um eine schnelle und einfache Montage zu gewährleisten.</p><p class=\"justify\">Die Ersatzgeschirrbrause kann sowohl als kostengünstige, aber dennoch qualitativ hochwertige Alternative zu teureren Markenprodukten, als auch als sinnvolles Ersatzteil in den entsprechenden Serien von Sonstige verzichtet werden. Der Cassai Ersatz-Geschirrbrauseschlauch in Edelstahl-Optik ist daher nicht nur ein praktisches, sondern auch ein äußerst langlebiges und designstarkes Produkt für Ihre Küche.</p><p class=\"justify\">Machen Sie keine Kompromisse bei der Qualität Ihrer Küchenarmatur und setzen Sie auf den Ersatz-Geschirrbrauseschlauch Cassai in Edelstahl-Optik. Die positive Resonanz der Kunden, die hohe Anzahl an Bewertungen und die herausragende Sternebewertung bestätigen die Zufriedenheit der Benutzer mit diesem Produkt. Verleihen Sie Ihrer Küche eine moderne und komfortable Ausstattung mit diesem praktischen Ersatzteil für Ihre Armatur.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5331848",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sonstige Acrylgriff 13 mm - Erstklassige Ersatzgriffe für Küche und Bad",
+                            "text": "<p class=\"justify\">Der Sonstige Acrylgriff 13 mm ist ein hochwertiger Ersatzgriff für Armaturen, der perfekt für den Einsatz in Küche und Bad geeignet ist. Dank seiner kompakten Größe von 13 mm passt dieser Ersatzgriff mit verschiedenen Küchen- und Badezimmerarmaturen. Mit seiner durchdachten Bauweise und dem robusten Material Acryl ist dieser Ersatzgriff sowohl wasserbeständig als auch pflegeleicht.</p><p class=\"justify\">Die verspiegelte Ausführung verleiht dem Acrylgriff ein edles Design, das sich harmonisch in jede Armaturintegriert. Der praktische, runde Knauf bietet einen hervorragenden Griff und eine komfortable Handhabung. Die rote Markierung auf dem Griff eignet sich ideal für die Warmwasserregelung, sodass Sie stets die Kontrolle über die Temperatur haben.</p><p class=\"justify\">Mit 4 Sternen aus 278 Bewertungen steht der Sonstige Acrylgriff 13 mm für Qualität und Zuverlässigkeit. Sein schlichtes, aber elegantes Design passt sich problemlos an jede Armatur an und stellt eine hervorragende Ergänzung für Küche und Bad dar. Erhältlich zum Preis von 4,99 € stellt dieser Ersatzgriff ein ausgezeichnetes Preis-Leistungs-Verhältnis dar.</p><p class=\"justify\">Die Kategorie Ersatzgriffe ist ein wichtiger Bestandteil der Küchenausstattung und bietet eine große Auswahl an Lösungen für verschiedene Anforderungen und Geschmäcker. Mit dem Sonstige Acrylgriff 13 mm entscheiden Sie sich für einen hochwertigen und praktischen Ersatzgriff, der Ihre Erwartungen erfüllt und Ihre Armaturen funktional und optisch verbessert.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5949763",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ersatz-Geschirrbrauseschlauch Cassai Satiniert von Sonstige",
+                            "text": "<p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai Satiniert von Sonstige ist eine hervorragende Lösung zur Erneuerung von Küchenarmaturen und bietet eine kosteneffiziente Möglichkeit, alten oder defekten Schläuchen neues Leben einzuhauchen. Das Produkt fällt in die Kategorie Ersatzgeschirrbrause und gehört zu den Ersatzteilen für Küchenarmaturen. Mit seiner eleganten Optik und dem zuverlässigen Material lässt es sich leicht in jede Küche integrieren, während es gleichzeitig ein hohes Maß an Funktionalität bietet.</p><p class=\"justify\">Die spezielle Ausführung des Schlauchs ist sowohl aus schwarzem Nylon als auch aus Messing gefertigt, was ihm eine besondere Beständigkeit und Haltbarkeit verleiht. Darüber hinaus verfügt der Schlauch über standardisierte Anschlüsse von 18,6 mm (G 1/2) und M15, was eine einfache Anpassung an die vorhandene Armatur ermöglicht. Die Länge von 1,25 m bietet genügend Spielraum für alle Reinigungs- und Küchenanforderungen.</p><p class=\"justify\">Der Ersatz-Geschirrbrauseschlauch Cassai Satiniert ist nicht nur praktisch, sondern auch ästhetisch ansprechend. Die satinierte Oberfläche des Konus verleiht dem Schlauch eine hochwertige Optik und macht ihn zu einer stilvollen Ergänzung jeder Küche. Im Lieferumfang sind zudem zwei Dichtungen enthalten, die für eine sichere und dichte Verbindung sorgen und somit Wasserlecks verhindern.</p><p class=\"justify\">Besitzer von Küchenarmaturen, die einen hochwertigen Ersatz-Geschirrbrauseschlauch benötigen, werden mit dem Cassai Satiniert von Sonstige eine ausgezeichnete Wahl treffen. Mit seinen langlebigen Materialien, der benutzerfreundlichen Konstruktion und dem ansprechenden Design wird dieser Schlauch sicherlich den Bedürfnissen jedes Küchenbesitzers gerecht werden und den Arbeitsbereich rund um die Spüle noch komfortabler gestalten.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | koch-küche.de",
+        "defaultMetaDescription": "Statten Sie Ihre Küche perfekt aus! Bei uns finden Sie die besten Produkte für unterschiedliche Kategorien wie  $KATEGORIE. Schnell. Einfach. Günstig.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | auf koch-küche.de",
+        "defaultMetaDescription": "Küchenzubehör und Ersatzteile von den besten Herstellern wie $HERSTELLER. Küchenprodukte von A-Z. Tolle Qualität. Große Produktauswahl. Schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Küchenausstattung",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Küchenausstattung Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Küchenausstattung Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | auf koch-küche.de",
-    "defaultMetaDescription": "Küchenzubehör und Ersatzteile von den besten Herstellern wie $HERSTELLER. Küchenprodukte von A-Z. Tolle Qualität. Große Produktauswahl. Schnelle Lieferung.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Küchenausstattung",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Küchenausstattung Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Küchenausstattung Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
